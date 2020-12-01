@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxConcept</string>
+    <string name="obser_button">Observer</string>
+    <string name="create_operator_button">Create Operator</string>
+</resources>
